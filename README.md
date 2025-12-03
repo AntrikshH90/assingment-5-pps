@@ -324,8 +324,8 @@ After studying this assignment, you will understand:
 ---
 
 **Prepared by:** Antriksh  
-**Roll Number:** [Your Roll Number]  
-**Branch:** [Your Branch]  
+**Roll Number:** 21  
+**Branch:** AIML  
 **Date:** December 3, 2025
 
 ---
