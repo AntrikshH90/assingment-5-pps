@@ -1,0 +1,7 @@
+This is a sample test file for the count_characters.c program.
+It contains multiple lines of text.
+AKTU Assignment 5 - File Operations Demonstration.
+Course Instructor: Mr. Ravi Kumar
+Submission Deadline: 15th December, 2025
+
+This file is used to test the character counting functionality.
