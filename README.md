@@ -323,7 +323,7 @@ After studying this assignment, you will understand:
 
 ---
 
-**Prepared by:** [Your Name]  
+**Prepared by:** Antriksh  
 **Roll Number:** [Your Roll Number]  
 **Branch:** [Your Branch]  
 **Date:** December 3, 2025
